@@ -36,7 +36,7 @@ Information about www.st-aug.edu
     
 Other cool places in Raleigh:
 
-Name                     | Location
--------------------      | ---------
-Morgan Street Food Hall  | Downtown
-Cowfish                  | North Hills
+Name                     | Location     | Capacity
+-------------------      | ---------    | ---------
+Morgan Street Food Hall  | Downtown.    |  250 People
+Cowfish                  | North Hills. | 25 people
